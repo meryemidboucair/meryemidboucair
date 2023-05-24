@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @meryemidboucair
-- 👀 I’m interested in Machine learning and developing
-- 🌱 I’m currently learning Django
+- 👀 I’m interested in Machine learning and programming
 - 📫 How to reach me meryemidboucair22@gmail.com
 
 <!---
